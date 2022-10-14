@@ -1,9 +1,11 @@
 img {
   width: 30%;
+  height: auto;
   margin: 10px;
   border: 2px solid black;
   padding: 4px;
   box-sizing: border-box;
+  float: left;
 }
 .red {
   color: red;
