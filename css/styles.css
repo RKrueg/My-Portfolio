@@ -1,6 +1,11 @@
 img {
   width: 30%;
-}.red {
+  margin: 10px;
+  border: 2px solid black;
+  padding: 4px;
+  box-sizing: border-box;
+}
+.red {
   color: red;
 }
 .blue {
