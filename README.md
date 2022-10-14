@@ -1,6 +1,6 @@
 # _My Portfolio_
 
-#### By _Ryan Krueger**_
+#### By _**Ryan Krueger**_
 
 #### _This is my portfolio webpage!_
 
