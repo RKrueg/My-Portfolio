@@ -21,8 +21,8 @@ _The application allows users to find helpful information regarding who I am. It
 
 ## Known Bugs
 
-* _Not at this time._
-
+* _No known bugs._
+* _Would like to make the page more interactive with the size of the browser._
 ## License
 
 _[MIT](https://choosealicense.com/licenses/mit/)_
