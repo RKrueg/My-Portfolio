@@ -38,7 +38,7 @@ img {
 .highlight {
   color: rgb(3, 14, 20);
   border: 2px solid green;
-  padding: 4px;
+  padding: 40px;
   background-color: #E1C48B;
   box-sizing: border-box;
   margin-bottom: 30px;
@@ -72,7 +72,7 @@ body {
   float: left;
 }
 .sidebar {
-  float: right;
+  float: left;
   border: 2px solid black;
   padding: 40px;
   box-sizing: border-box;
@@ -87,7 +87,7 @@ body {
   text-decoration: underline;
 }
 .sidebar1 {
-  float: right;
+  float: left;
   border: 2px solid black;
   padding: 40px;
   box-sizing: border-box;
